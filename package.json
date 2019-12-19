@@ -19,6 +19,8 @@
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
+    "angular-easy-masks": "^0.2.5",
+    "angular-input-masks": "^4.4.1",
     "bootstrap": "^4.4.1",
     "ngx-mask": "^8.1.6",
     "rxjs": "~6.4.0",
